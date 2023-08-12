@@ -26,5 +26,8 @@
    - чтобы выйти из "обиды" Нако нужно несколько раз покормить едой с позитивной реакцией
 7. реализовано главное меню с возможностью отключения музыкального сопровождения
 
-
-
+### Скриншоты:
+![screenshot 4](https://github.com/Yulya-S/A-girl-following-the-cursor/blob/main/screenshots/screenshot_4.jpg)
+![screenshot 2](https://github.com/Yulya-S/A-girl-following-the-cursor/blob/main/screenshots/screenshot_2.jpg)
+![screenshot 3](https://github.com/Yulya-S/A-girl-following-the-cursor/blob/main/screenshots/screenshot_3.jpg)
+![screenshot 1](https://github.com/Yulya-S/A-girl-following-the-cursor/blob/main/screenshots/screenshot_1.jpg)
